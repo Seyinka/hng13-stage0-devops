@@ -27,5 +27,3 @@
 1. Create Custom Webpage
 1. Test Deployment.
 
-![Webapge](/hng13-stage0-devops/Screenshot%202025-10-16%20211024.png)
-
